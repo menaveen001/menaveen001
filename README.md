@@ -1,6 +1,6 @@
 # Hi, I'm Naveen Kumar Pal! 👋
 
-🚀 **Software Tester & Quality Analyst** | 1.5+ years of experience in software testing | Passionate about ensuring high-quality software
+🚀 **Software Tester & Quality Analyst** | 2+ years of experience in software testing | Passionate about ensuring high-quality software
 
 ![GitHub followers](https://img.shields.io/github/followers/menaveen001?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/menaveen001?style=social)
@@ -23,7 +23,7 @@ I am a results-driven **Software Tester & Quality Analyst** with hands-on experi
 **📌 GlobalLogic Technologies (Associate Analyst) | Aug 2023 – Present**
 - Quickly learn new project requirements & ensure high-quality data standards.
 - Conduct **Functionality, Black Box, White Box, and UX Testing** to ensure smooth user experiences.
-- Identify and report bugs using tools like **JIRA, Spotter**.
+- Identify and report bugs using tools like **JIRA**.
 - Develop & maintain test cases for comprehensive test coverage.
 
 ## 🔹 Projects
